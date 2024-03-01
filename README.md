@@ -20,7 +20,7 @@ Variational Autoencoder (VAE) is a generative model that learns to encode and de
 
 
 ### The Dataset
-MNIST, a widely used dataset for machine learning, comprises 28x28 grayscale images of handwritten digits (0-9). It's a benchmark for classification algorithms, particularly in image recognition. The dataset is a beginner-friendly starting point for deep learning. The provided code introduces a custom class that enhances MNIST by randomly changing the colors of its images, offering an augmented dataset for more diverse and versatile model training and evaluation.
+MNIST, a widely used dataset for machine learning, comprises 28x28 grayscale images of handwritten digits (0-9). It's a benchmark for classification algorithms, particularly in image recognition. The provided code introduces a custom class that enhances MNIST by randomly changing the colors of its images, offering an augmented dataset for more diverse and versatile model training and evaluation.
 
 ![](images/mnist_rnd_color.png)
 
